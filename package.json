@@ -1,12 +1,12 @@
 {
-  "homepage": "http://Kevintirta.github.io/v4",
+  "homepage": "http://Kevintirta.github.io",
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kevintirta/v4"
+    "url": "https://github.com/Kevintirta"
   },
   "keywords": [
     "gatsby"
