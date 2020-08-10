@@ -3,17 +3,17 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - HTML5 & (S)CSS
   - React
-  - Vue
   - Node.js
-  - WordPress
+  - Firebase
+  - Django
 ---
 
-Hello! I'm Kevin Tirta, a software engineer based in Boston, MA.
+Hello! I'm Kevin Tirta, a software engineer based in Singapore.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I always love to create interesting platform whether it is a web app or mobile app. My vision is to bring new innovations to current problem and build robust software applications.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Currently I am studying at [National University of Singapore](http://www.nus.edu.sg), As a techy, I have nurtured my programming skills by having numerous internships in both startups and MNCs at multiple countries, like in Israel and Singapore.
 
 Here are a few technologies I've been working with recently:

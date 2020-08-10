@@ -1,14 +1,14 @@
 ---
-date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '1'
+title: 'Collaborative Restaurant Collection'
+cover: './restaurant.png'
+github: 'https://github.com/Kevintirta/RestaurantCollection'
+external: 'https://restaurantcollection-90825.web.app/jyjou'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - React
+  - Firebase
+  - Python
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Restaurant Collection web app for users to add, edit, and delete restaurant in their respective collection and share with their friends for collaboration. Live automatic data update when database changes.

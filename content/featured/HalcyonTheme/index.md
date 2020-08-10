@@ -1,16 +1,15 @@
 ---
-date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+date: '3'
+title: 'Live Coronavirus Counter'
+cover: './map.png'
+github: 'https://github.com/Kevintirta/Corona_map_pandemic'
+external: 'https://indonesia-coronavirus.com/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React
+  - Firebase
+  - Mapbox
+  - Chart.js
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Build a Live Coronavirus counter website with interactive map using React, Firebase, and Mapbox GL to observe the pandemic spread for each province in Indonesia and gained 1000+ views within 3 weeks by optimizing SEO. Latest data is scraped from [Wikipedia](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Indonesia)
