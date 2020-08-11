@@ -3,7 +3,7 @@ date: '2019-12-21'
 title: 'Product Engineering Intern'
 company: 'Micron Technology'
 location: 'Singapore'
-range: 'July - dec 2019'
+range: 'Jul - Dec 2019'
 url: 'https://www.micron.com/about'
 ---
 

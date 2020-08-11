@@ -3,7 +3,7 @@ date: '2020-6-10'
 title: 'Software Engineering Intern'
 company: 'Anywhr'
 location: 'Singapore'
-range: 'July - Aug 2020'
+range: 'Jul - Aug 2020'
 url: 'https://www.anywhr.co/'
 ---
 

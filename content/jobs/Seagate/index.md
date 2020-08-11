@@ -3,7 +3,7 @@ date: '2019-06-01'
 title: 'Process Engineering Intern'
 company: 'Seagate'
 location: 'Singapore'
-range: 'Jan - April 2018'
+range: 'May - Jul 2019'
 url: 'https://www.seagate.com/sg/en/'
 ---
 
